@@ -13,7 +13,7 @@ It also provides a couple of Python snippets:
 - `shinyapp` for creating a new Shiny application
 - `shinymod` for creating a new Shiny module
 
-See [the docs](https://shiny.rstudio.com/py/docs/install.html#configure-visual-studio-code) for more information, including instructions for configuring the type checker and debugger for use with Shiny.
+See [the docs](https://shiny.posit.co/py/docs/install-create-run.html#vs-code) for more information, including instructions for configuring the type checker and debugger for use with Shiny.
 
 ## Extension Settings
 
